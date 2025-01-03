@@ -1,0 +1,7 @@
+{
+    "email": "supernewuser01@test.com",
+    "password": "123456789",
+    "roles": ["ROLE_ADMIN"],
+    "childCategory" : "Strawberry",
+    "fatherCategory" : "Fruits"
+}
