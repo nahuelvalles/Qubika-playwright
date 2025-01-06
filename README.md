@@ -48,12 +48,14 @@ Prerequisites
 
 Installation
 
-Clone the repository 
-git clone <https://github.com/nahuelvalles/Qubika-playwright.git>
+Clone repo: https://github.com/nahuelvalles/Qubika-playwright.git
 
-Install dependancies
-npm install
-
+In terminal execute:
+	npm install
+	npx playwright install
+	npm install --save-dev playwright
+	npm install --save-dev selenium-webdriver
+	npm install --save-dev @types/selenium-webdriver
 
 Commands to run the TCs:
 
